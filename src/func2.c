@@ -2,4 +2,5 @@
 
 void goo(){
     printf(" goo! \n");
+    printf("goo is wonderful!\n");
 }
